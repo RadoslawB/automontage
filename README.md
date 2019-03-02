@@ -1,5 +1,8 @@
 # Automontage
 
-### create short footage cuts synced with music from source video
+### Create short footage cuts synced with music from source video
 
+
+---
+It is a weekend project. Starting from zero knowledge about video editing using software.
 
