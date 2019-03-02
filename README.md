@@ -4,5 +4,9 @@
 
 
 ---
-It is a weekend project. Starting from zero knowledge about video editing using software.
+It is a weekend project. Starting from zero knowledge about video and music  editing using software.
+
+---
+
+Checkout `notebooks` directory
 
